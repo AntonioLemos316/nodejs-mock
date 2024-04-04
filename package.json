@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-mock",
+  "version": "1.0.0",
+  "description": "- Primeiro passo criar nosso arquivo package.json onde estarão nossas dependencias de instalação com o seguinte comando no terminal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
